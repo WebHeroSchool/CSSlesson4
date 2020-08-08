@@ -1,12 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap");
 
 * {
   margin: 0;
   padding: 0;
 }
 
-.body {
-  font-family: 'Open Sans', sans-serif;
+body {
+  font-family: "Open Sans", sans-serif;
 }
 
 .header {
@@ -35,5 +36,5 @@
 .header__title,
 .content__title,
 .footer__title {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
